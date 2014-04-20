@@ -1,0 +1,894 @@
+/* ********************************************/
+/* Retinafy (from http://lesselements.com/)
+/* ********************************************/
+.partner-map-marker-dialog-actions .faux-submit-input.inactive {
+  -moz-opacity: 0.3;
+  -khtml-opacity: 0.3;
+  -webkit-opacity: 0.3;
+  opacity: 0.3;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=30);
+  filter: alpha(opacity=30);
+}
+/* ********************************************/
+/* Retinafy
+/* ********************************************/
+.page-loader-modal {
+  background-image: url('../images/loader_darkgrey.gif');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .page-loader-modal {
+    background-image: url('../images/loader_darkgrey@2x.gif');
+    background-size: 24px 24px;
+  }
+}
+.header-slideshow {
+  background-image: url('../images/loading_header.gif');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .header-slideshow {
+    background-image: url('../images/loading_header@2x.gif');
+    background-size: 24px 24px;
+  }
+}
+.callout-widget-grid.widget-size-small-medium .callout-widget-content-title .boxfitted-last-paragraph,
+.callout-widget-fixed-column-grid.widget-size-small-medium .callout-widget-content-title .boxfitted-last-paragraph {
+  background-image: url('../images/divider_callout_small.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .callout-widget-grid.widget-size-small-medium .callout-widget-content-title .boxfitted-last-paragraph,
+  .callout-widget-fixed-column-grid.widget-size-small-medium .callout-widget-content-title .boxfitted-last-paragraph {
+    background-image: url('../images/divider_callout_small@2x.png');
+    background-size: 190px 8px;
+  }
+}
+.callout-widget-grid .callout-widget-content-title .boxfitted-last-paragraph,
+.callout-widget-fixed-column-grid .callout-widget-content-title .boxfitted-last-paragraph {
+  background-image: url('../images/divider_callout_large.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .callout-widget-grid .callout-widget-content-title .boxfitted-last-paragraph,
+  .callout-widget-fixed-column-grid .callout-widget-content-title .boxfitted-last-paragraph {
+    background-image: url('../images/divider_callout_large@2x.png');
+    background-size: 320px 12px;
+  }
+}
+.user-library-buttons-button {
+  background-image: url('../images/button_share.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .user-library-buttons-button {
+    background-image: url('../images/button_share@2x.png');
+    background-size: 66px 18px;
+  }
+}
+.nav-menu-widget-fixed-column-grid .nav-menu-widget-content-inner {
+  background-image: url('../images/menu_circle.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .nav-menu-widget-fixed-column-grid .nav-menu-widget-content-inner {
+    background-image: url('../images/menu_circle@2x.png');
+    background-size: 226px 220px;
+  }
+}
+.editor-header-3 {
+  background-image: url('../images/body_divider.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .editor-header-3 {
+    background-image: url('../images/body_divider@2x.png');
+    background-size: 184px 10px;
+  }
+}
+.editor-header-2 {
+  background-image: url('../images/body_divider_white.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .editor-header-2 {
+    background-image: url('../images/body_divider_white@2x.png');
+    background-size: 184px 10px;
+  }
+}
+.goal_2025 .sbHolder {
+  background-image: url('../images/button_dropdown.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .goal_2025 .sbHolder {
+    background-image: url('../images/button_dropdown@2x.png');
+    background-size: 34px 18px;
+  }
+}
+.goal_2025 .page-tools-category-filter .sbHolder {
+  background-image: url('../images/button_dropdown_white.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .goal_2025 .page-tools-category-filter .sbHolder {
+    background-image: url('../images/button_dropdown_white@2x.png');
+    background-size: 34px 18px;
+  }
+}
+.box-select-style1 {
+  background-image: url('../images/button_dropdown.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .box-select-style1 {
+    background-image: url('../images/button_dropdown@2x.png');
+    background-size: 34px 18px;
+  }
+}
+.box-select-style1.customSelectHover {
+  background-image: url('../images/button_dropdown_hl.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .box-select-style1.customSelectHover {
+    background-image: url('../images/button_dropdown_hl@2x.png');
+    background-size: 34px 18px;
+  }
+}
+.partner-map-list-button a {
+  background-image: url('../images/button_listview.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .partner-map-list-button a {
+    background-image: url('../images/button_listview@2x.png');
+    background-size: 20px 23px;
+  }
+}
+.partner-list-map-button a {
+  background-image: url('../images/button_mapview.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .partner-list-map-button a {
+    background-image: url('../images/button_mapview@2x.png');
+    background-size: 20px 19px;
+  }
+}
+.partner-map-header-divider {
+  background-image: url('../images/dropshadow.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .partner-map-header-divider {
+    background-image: url('../images/dropshadow@2x.png');
+    background-size: 1px 19px;
+  }
+}
+.partner-network-widget-account-edit .widget-content-search-inner {
+  background-image: url('../images/network_search.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .partner-network-widget-account-edit .widget-content-search-inner {
+    background-image: url('../images/network_search@2x.png');
+    background-size: 30px 30px;
+  }
+}
+.account-edit-item .custom-select-input {
+  background-image: url('../images/button_dropdown.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .account-edit-item .custom-select-input {
+    background-image: url('../images/button_dropdown@2x.png');
+    background-size: 34px 18px;
+  }
+}
+.html-editor ul li {
+  background-image: url('../images/html_dash.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .html-editor ul li {
+    background-image: url('../images/html_dash@2x.png');
+    background-size: 12px 1px;
+  }
+}
+.join-widget-grid .join-widget-text ul li,
+.join-widget-fixed-column-grid .join-widget-text ul li {
+  background-image: url('../images/widget_join-us_carrot.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .join-widget-grid .join-widget-text ul li,
+  .join-widget-fixed-column-grid .join-widget-text ul li {
+    background-image: url('../images/widget_join-us_carrot@2x.png');
+    background-size: 13px 20px;
+  }
+}
+.html-widget-fixed-column-grid.widget-style-2 .html-editor ul li {
+  background-image: url('../images/html_dash_white.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .html-widget-fixed-column-grid.widget-style-2 .html-editor ul li {
+    background-image: url('../images/html_dash_white@2x.png');
+    background-size: 12px 1px;
+  }
+}
+.html-widget-fixed-column-grid.widget-style-2 .html-editor .editor-header-3 {
+  background-image: url('../images/body_divider_white.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .html-widget-fixed-column-grid.widget-style-2 .html-editor .editor-header-3 {
+    background-image: url('../images/body_divider_white@2x.png');
+    background-size: 184px 10px;
+  }
+}
+.header-slideshow-read-more-text {
+  background-image: url('../images/menu_expand.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .header-slideshow-read-more-text {
+    background-image: url('../images/menu_expand@2x.png');
+    background-size: 17px 17px;
+  }
+}
+.search-text-widget-account-edit .search-text-widget-keyword {
+  background-image: url('../images/button_tag_delete.png');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .search-text-widget-account-edit .search-text-widget-keyword {
+    background-image: url('../images/button_tag_delete@2x.png');
+    background-size: 20px 20px;
+  }
+  .header-slideshow-slide-content-video-title {
+    background-image: url('images/header_mobile@2x.png');
+  }
+  
+}
+/* ********************************************/
+/* Fontify
+/* ********************************************/
+body {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+body em,
+body i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+body strong,
+body b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+input {
+  font-family: "lyon";
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+input em,
+input i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+input strong,
+input b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+textarea {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+textarea em,
+textarea i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+textarea strong,
+textarea b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.fontify-lyon {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.fontify-lyon em,
+.fontify-lyon i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.fontify-lyon strong,
+.fontify-lyon b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.fontify-apercu {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.fontify-apercu em,
+.fontify-apercu i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.fontify-apercu strong,
+.fontify-apercu b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.fontify-edup {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.fontify-edup em,
+.fontify-edup i {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.fontify-edup strong,
+.fontify-edup b {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.form-field-submit-input {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.form-field-submit-input em,
+.form-field-submit-input i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.form-field-submit-input strong,
+.form-field-submit-input b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.centered-grid-item-title {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.centered-grid-item-title em,
+.centered-grid-item-title i {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.centered-grid-item-title strong,
+.centered-grid-item-title b {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.partner-map-hitarea-dialog-stats-cities .figure {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.partner-map-hitarea-dialog-stats-cities .figure em,
+.partner-map-hitarea-dialog-stats-cities .figure i {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.partner-map-hitarea-dialog-stats-cities .figure strong,
+.partner-map-hitarea-dialog-stats-cities .figure b {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.partner-map-hitarea-dialog-stats-cities .figure-caption {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-map-hitarea-dialog-stats-cities .figure-caption em,
+.partner-map-hitarea-dialog-stats-cities .figure-caption i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-map-hitarea-dialog-stats-cities .figure-caption strong,
+.partner-map-hitarea-dialog-stats-cities .figure-caption b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-map-hitarea-dialog-subheading {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-map-hitarea-dialog-subheading em,
+.partner-map-hitarea-dialog-subheading i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-map-hitarea-dialog-subheading strong,
+.partner-map-hitarea-dialog-subheading b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+#partner-map-map .leaflet-popup-content {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+#partner-map-map .leaflet-popup-content em,
+#partner-map-map .leaflet-popup-content i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+#partner-map-map .leaflet-popup-content strong,
+#partner-map-map .leaflet-popup-content b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+#partner-map-map .leaflet-popup-content .editor-header-3 {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+#partner-map-map .leaflet-popup-content .editor-header-3 em,
+#partner-map-map .leaflet-popup-content .editor-header-3 i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+#partner-map-map .leaflet-popup-content .editor-header-3 strong,
+#partner-map-map .leaflet-popup-content .editor-header-3 b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.page-tools-buttons-title {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.page-tools-buttons-title em,
+.page-tools-buttons-title i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.page-tools-buttons-title strong,
+.page-tools-buttons-title b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.page-tools-search-input-container input {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.page-tools-search-input-container input em,
+.page-tools-search-input-container input i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.page-tools-search-input-container input strong,
+.page-tools-search-input-container input b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.nav-search-input-container input {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.nav-search-input-container input em,
+.nav-search-input-container input i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.nav-search-input-container input strong,
+.nav-search-input-container input b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.account-edit-item .widget-input-view-placeholder {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.account-edit-item .widget-input-view-placeholder em,
+.account-edit-item .widget-input-view-placeholder i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.account-edit-item .widget-input-view-placeholder strong,
+.account-edit-item .widget-input-view-placeholder b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.partner-dashboard-headline .widget-edit-button-label {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.partner-dashboard-headline .widget-edit-button-label em,
+.partner-dashboard-headline .widget-edit-button-label i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.partner-dashboard-headline .widget-edit-button-label strong,
+.partner-dashboard-headline .widget-edit-button-label b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+body .mejs-container .mejs-controls div span, body .mejs-container {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+body .mejs-container .mejs-controls div span, body .mejs-container em,
+body .mejs-container .mejs-controls div span, body .mejs-container i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+body .mejs-container .mejs-controls div span, body .mejs-container strong,
+body .mejs-container .mejs-controls div span, body .mejs-container b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.fit-text-edup .boxfitted {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.fit-text-edup .boxfitted em,
+.fit-text-edup .boxfitted i {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.fit-text-edup .boxfitted strong,
+.fit-text-edup .boxfitted b {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.editor-header-6 {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.editor-header-6 em,
+.editor-header-6 i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.editor-header-6 strong,
+.editor-header-6 b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.editor-style-6 {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.editor-style-6 em,
+.editor-style-6 i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.editor-style-6 strong,
+.editor-style-6 b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.editor-header-3 {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-3 em,
+.editor-header-3 i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-3 strong,
+.editor-header-3 b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-4 {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-4 em,
+.editor-header-4 i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-4 strong,
+.editor-header-4 b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-5 {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-5 em,
+.editor-header-5 i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-5 strong,
+.editor-header-5 b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.editor-header-2 {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.editor-header-2 em,
+.editor-header-2 i {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.editor-header-2 strong,
+.editor-header-2 b {
+  font-family: "edup";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: -0.05em;
+}
+.widget-partner-dashboard-resources a {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.widget-partner-dashboard-resources a em,
+.widget-partner-dashboard-resources a i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.widget-partner-dashboard-resources a strong,
+.widget-partner-dashboard-resources a b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+#partner-map-map.leaflet-container {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+#partner-map-map.leaflet-container em,
+#partner-map-map.leaflet-container i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+#partner-map-map.leaflet-container strong,
+#partner-map-map.leaflet-container b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.partner-initiative-widget-content {
+  font-family: "lyon";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-initiative-widget-content em,
+.partner-initiative-widget-content i {
+  font-family: "lyon_italic";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-initiative-widget-content strong,
+.partner-initiative-widget-content b {
+  font-family: "lyon_bold";
+  font-size-adjust: none;
+  font-weight: normal;
+  font-style: normal;
+}
+.partner-initiative-widget-content .partner-initiative-widget-title {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.partner-initiative-widget-content .partner-initiative-widget-title em,
+.partner-initiative-widget-content .partner-initiative-widget-title i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.partner-initiative-widget-content .partner-initiative-widget-title strong,
+.partner-initiative-widget-content .partner-initiative-widget-title b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+body .me-cannotplay {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+body .me-cannotplay em,
+body .me-cannotplay i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+body .me-cannotplay strong,
+body .me-cannotplay b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.goal_2025 .sbHolder {
+  font-family: "Apercu Medium", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: normal;
+}
+.goal_2025 .sbHolder em,
+.goal_2025 .sbHolder i {
+  font-family: "Apercu Medium Italic", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: 600;
+  font-style: italic;
+}
+.goal_2025 .sbHolder strong,
+.goal_2025 .sbHolder b {
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+.nav-menu-item-primary a.has-secondary.expanded {
+  -webkit-opacity: 1 !important;
+  -moz-opacity: 1 !important;
+  filter: alpha(opacity=100) !important;
+}

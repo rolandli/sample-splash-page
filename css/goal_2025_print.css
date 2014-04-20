@@ -1,0 +1,23 @@
+.layout {
+  margin-top:0;
+}
+
+.header-bar, .nav-menu, .nav-search {
+  display:none;
+}
+
+/* Removes the extra margins on the print screen */
+@page {
+  margin: 0;
+}
+
+/* HTML editor uses discs instead of background images */
+body .html-editor ul {
+  margin-left: 0;
+  padding-left: 0;   
+}
+body .html-editor ul li {
+  margin-left: 1.5em;
+  list-style: disc;
+  padding-left:0;
+}

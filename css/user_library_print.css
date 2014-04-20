@@ -1,0 +1,17 @@
+.page-tools-buttons {
+  display:none;
+}
+
+.footer {
+  display:none;
+}
+
+.header-bar {
+  display:none;
+}
+
+.header {
+  display:none;
+}
+
+@page { size: landscape; }

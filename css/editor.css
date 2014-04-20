@@ -1,0 +1,93 @@
+.editor-header-3 {
+  font-size:30px;
+  line-height:32px;
+  background: no-repeat center bottom;
+  padding-bottom:25px;
+  margin-bottom:40px;
+  text-align:center;
+}
+
+.editor-header-2 {
+  background: no-repeat center bottom;
+}
+
+.html-editor .editor-header-2 p {
+  padding-bottom:20px;
+  margin:0em 0em 0.0em 0em;
+}
+
+.editor-header-2 {
+  text-align:center;
+  text-transform:uppercase;
+  font-size:50px;
+  line-height:50px;
+}
+
+.editor-header-4 {
+  font-size:30px;
+  line-height:36px;
+}
+
+.editor-header-5 {
+  font-size:20px;
+  line-height:23px;
+}
+
+.html-editor .editor-header-3 p {
+  margin:0em 0em 0.0em 0em;
+}
+
+.html-editor ul li {
+  background:no-repeat 0% 0%;
+  padding-left:15px;
+}
+
+.editor-header-3-separator {
+  padding-top:20px;
+}
+
+.editor-header-6 {
+  text-align:center;
+  padding-bottom:1em;
+}
+
+.editor-style-6 {
+  font-size:15px;
+  line-height:24px;
+}
+
+#tinymce {
+  font-size:15px;
+  padding-left:5px;
+}
+
+#tinymce .editor-header-2, #tinymce .editor-header-2 p {
+  margin-bottom:0;
+  padding-bottom:0.5em;
+}
+
+#tinymce .editor-header-3 {
+  margin-bottom:0.5em;
+  padding-bottom:0;
+}
+
+#tinymce .editor-header-6, #tinymce .editor-style-6 {
+  font-size:20px;
+  margin-bottom:0.5em;
+  padding-bottom:0;
+}
+
+.html-editor p {
+  margin:0em 0em 1em 0em;
+}
+
+.editor-image-stretch {
+  max-width:100%;
+  width:100%;
+}
+
+.editor-image-center {
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
